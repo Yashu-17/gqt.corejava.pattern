@@ -1,0 +1,1 @@
+# gqt.corejava.pattern
